@@ -1,0 +1,42 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Testing scripts and logs
+crash_log.txt
+test_results.txt
+
+keys/
+*.local.*
+
+# Scripts
+scripts/.env
+
+reddit.md
+.claude
+
+# Release artifacts
+*.apk
+*.aab
+app/release/
+app/build/outputs/
+RELEASE_NOTES.md
+
+# Keystore files (never commit these!)
+*.jks
+*.keystore
+release.properties
+
+*.pem

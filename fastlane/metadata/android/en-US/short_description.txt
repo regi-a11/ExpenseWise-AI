@@ -1,0 +1,1 @@
+Offline expense tracker from bank SMS with optional AI chat
